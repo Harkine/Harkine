@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harkine
-- 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Backend development
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me aweakinsola@gmail.com
 
